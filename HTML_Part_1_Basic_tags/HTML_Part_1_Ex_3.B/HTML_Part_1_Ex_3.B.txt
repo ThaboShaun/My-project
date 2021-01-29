@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Thabo Mokoena" />
+    <title>.::Webdesign essentials::.</title>
+    <meta name="description" content="Learn more about the basics of web design">
+    <!-- r083154 -->
+</head>
+
+<body>
+
+    <h1>Webdesign essentials</h1>
+    <h2>Working valid</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent at erat eget elit ultricies lacinia.</p>
+
+    <h2>Working semantic</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vestibulum enim ac arcu auctor, sit amet rhoncus justo pulvinar. Ut venenatis nisi quis justo lacinia viverra. Morbi venenatis in odio eu volutpat. Curabitur suscipit eleifend orci, vel cursus massa ullamcorper eget. Ut posuere scelerisque molestie. Maecenas non accumsan justo. Aenean at dictum erat, ut ornare eros. Aenean et porttitor nisl, et fringilla felis. Proin facilisis maximus tellus, sed malesuada metus. Morbi convallis consectetur blandit. Fusce maximus posuere turpis. Curabitur hendrerit mi ac vestibulum rhoncus. Aliquam non interdum mi. Proin eget lorem sit amet mauris finibus dictum a vel mauris.</p>
+</body>
+
+</html>

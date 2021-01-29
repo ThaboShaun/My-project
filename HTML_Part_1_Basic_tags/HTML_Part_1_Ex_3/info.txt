@@ -1,0 +1,10 @@
+1.additional information: Canvas LMS
+2.Dit is een HTML bestand.
+3.Google indexteert deze pagina als een Nederlandse pagina.
+4.er zijn vier titels, h1 zijn twee en h2 zijn 8.
+5.De viewpor:(De viewport meta-tag vertelt de browser dat de breedte van het scherm
+moet worden beschouwd als de "Full Width" van de pagina. Dit betekent 
+dat ongeacht de breedte van het apparaat waarop u zich bevindt, zowel
+ op desktop als mobiel. de website volgt de breedte van het apparaat 
+ waarop de gebruiker zich bevindt.)
+ 6.meta:vp
